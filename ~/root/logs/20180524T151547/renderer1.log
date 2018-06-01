@@ -1,0 +1,461 @@
+[2018-05-24 15:15:54.901] [renderer1] [error] Error: Inotify limit reached (ENOSPC)
+[2018-05-24 15:17:15.859] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:18.701] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:20.561] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:21.799] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:23.980] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:25.031] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:26.528] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:27.921] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:36.015] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:17:38.879] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:18:35.703] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:18:45.210] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:20:34.956] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:20:37.619] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:24:09.293] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:25:56.298] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:34:08.138] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:34:09.991] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:34:11.208] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:44:56.643] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:44:57.717] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:44:59.546] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-05-24 15:45:03.391] [renderer1] [error] Cannot read property 'lineNumber' of null: TypeError: Cannot read property 'lineNumber' of null
+	at Object.t.toPosition (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:604:471)
+	at e.provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:650:488)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:567
+	at e._withAdapter (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:661:830)
+	at e.$provideHover (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:664:529)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:894)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:598:612)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:682)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:597:451)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:596:384
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:599:463
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:119
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:89:496)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:145:1008)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)

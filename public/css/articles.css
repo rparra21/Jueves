@@ -1,0 +1,38 @@
+/*Style for row to put it border*/
+.putBorder {
+    border: gray 1px solid;
+  }
+
+/*Style for small tag to put it red color*/
+small {
+    color: red;
+}
+
+/*Style for btn-group to generate a space*/
+.btnOptions{
+    margin-top: 2%; 
+    
+}
+
+/*Style to the article image*/
+.imageStyle{
+    width: 170px;
+    height: 120px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/*Media query to do small article image*/
+@media (max-width: 600px) {
+    .imageStyle{
+        width: 65px;
+        height: 65px;}
+  }
+
+.styleCheck {
+  transform: scale(1.5);
+  margin-top: 2%;
+}
+
+
+
